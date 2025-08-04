@@ -26,8 +26,11 @@ It analyzes student performance and recommends personalized quizzes based on top
 
 ## 🚀 Future Work
 - Add more subjects (Chemistry, Biology, Maths)
-- Include UI for students to use
 - Improve model with deep learning
+
+## 🔹 Requirements
+1. Python packages listed in requirements.txt
+2. Dataset used listed in RecoPhysix_Dataset.csv
 
 ## 📌 Author
 Muskan Kanaujia  
