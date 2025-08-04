@@ -1,0 +1,165 @@
+Questions,Subject,cleaned_question,topic,Topic_Difficulty,student_id,quiz_attempt,score,time_taken,difficulty,recommended_next_topic
+"Fill in the blanks
+In minimum deviation position of prism, the angle of incidence is equal to angle of",Physics,fill blank minimum deviation position prism angle incidence equal angle,Other,Unknown,1077,8,43,280,Medium,electricity
+"If \( \vec{A} \times \vec{B}=0, \vec{B} \times \vec{C}=0, \) then \( \vec{A} \times \)
+\( \vec{C}= \)
+A. \( A C \)
+в. \( \frac{A B^{2}}{C} \)
+c. \( Z \) ero
+D. Noneofthese",Physics,veca time vecb0 vecb time vecc0 veca times vecc fraca b2c ero noneofthese,Other,Unknown,1058,8,30,177,Easy,other
+"A sonar device fitted in a submarine
+receives an echo \( 4 s \) later the signal is transmitted towards another
+submarine \( 3060 m \) away. Find the speed of sound in water.
+\( \mathbf{A} \cdot 1530 m s^{-1} \)
+B . \( 1342 \mathrm{ms}^{-1} \)
+c. \( 1600 m s^{-1} \)
+D. \( 1250 m s^{-1} \)",Physics,sonar device fit submarine receive echo later signal transmit towards another submarine 3060 away find speed sound water mathbfa cdot 1530 s1 1342 mathrmms1 1600 s1 1250 s1,Other,Unknown,1082,4,26,94,Easy,other
+"Which of the following electromagnetic waves is used in medicine to destroy
+cancer cells?
+A . IR-rays
+B. Visible rays
+c. Gamma rays
+D. Ultraviolet rays",Physics,follow electromagnetic wave use medicine destroy cancer cell irray visible ray gamma ray ultraviolet ray,Other,Unknown,1026,8,56,37,Medium,optics
+"Assertion (A) : Silver is a ductile
+material, Reason (R): For a ductile material yield point and breaking point are separated by larger distance than for brittle
+materials on the stress-strain curve.
+A. Both assertion and reason are true and the reason is correct explanation of the assertion
+B. Both assertion and reason are true, but reason is not correct explanation of the assertion
+c. Assertion is true, but the reason is false
+D. Assertion is false, but the reason is true",Physics,assertion silver ductile material reason ductile material yield point breaking point separate large distance brittle material stressstrain curve assertion reason true reason correct explanation assertion assertion reason true reason correct explanation assertion assertion true reason false assertion false reason true,Other,Unknown,1031,8,22,145,Easy,other
+"Which are good conductors?
+This question has multiple correct options
+A. silicon
+B. Silver
+c. copper
+D. glass",Physics,good conductor question multiple correct option silicon silver copper glass,Other,Unknown,1035,9,37,180,Easy,other
+"A vertical steel post of diameter \( 25 \mathrm{cm} \)
+and length \( 2.5 m \) supports a weight of
+\( 8000 k g . \) Find the change in length
+produced. (Given \( \left.\boldsymbol{Y}=\mathbf{2} \times \mathbf{1 0}^{\mathbf{1 1}} \boldsymbol{P a}\right) \)
+\( A \cdot 2.1 \mathrm{cm} \)
+B. 0.21 \( \mathrm{cm} \)
+c. \( 0.21 \mathrm{mm} \)
+D. 0.021 mm",Physics,vertical steel post diameter 25 mathrmcm length 25 support weight 8000 find change length produce give leftboldsymbolymathbf2 time mathbf1 0mathbf1 boldsymbolp aright cdot 21 mathrmcm 021 mathrmcm 021 mathrmmm 0021 mm,Other,Unknown,1084,3,64,169,Medium,mechanics
+"Then the maximum height attained by the ball is
+A . \( 11.25 \mathrm{m} \)
+B. 48.2 m
+c. \( 23.5 \mathrm{m} \)
+D. 68 m",Physics,maximum height attain ball 1125 mathrmm 482 235 mathrmm 68,Other,Unknown,1050,1,91,225,Hard,kinematics
+"The maximum and minimum distance
+of earth from sun are \( r_{1} \) and \( r_{2} \)
+respectively What will be the distance of earth from sun when its position vector is perpendicular to the major axis of its orbit
+A \( \cdot \frac{r_{1}+r_{2}}{4} \)
+в. \( \left(\frac{r_{1}+r_{2}}{r_{1}-r_{2}}\right) \)
+c. \( \frac{2 r_{1} r_{2}}{r_{1}+r_{2}} \)
+D. \( \frac{r_{1}+r_{2}}{3} \)",Physics,maximum minimum distance earth sun r_1 r_2 respectively distance earth sun position vector perpendicular major axis orbit cdot fracr_1r_24 leftfracr_1r_2r_1r_2right frac2 r_1 r_2r_1r_2 fracr_1r_23,Other,Unknown,1025,4,32,120,Easy,other
+"Match the corresponding entries of
+column-I with column-II",Physics,match correspond entry columni columnii,Other,Unknown,1090,5,85,180,Hard,thermodynamics
+"Two coherent waves are represented by
+\( \boldsymbol{y}_{1}=\boldsymbol{a}_{1} \cos \omega t \) and \( \boldsymbol{y}_{2}=\boldsymbol{a}_{2} \sin \omega t . \) The
+resultant intensity due to interference will be
+B. \( \left(a_{1}^{2}+a_{2}^{2}\right) \)
+c. \( \left(a_{1}-a_{2}\right) \)
+and
+D \( \cdot\left(a_{1}+a_{2}\right) \)",Physics,two coherent wave represent boldsymboly_1boldsymbola_1 cos omega boldsymboly_2boldsymbola_2 sin omega resultant intensity due interference lefta_12a_22right lefta_1a_2right cdotlefta_1a_2right,Other,Unknown,1002,5,65,252,Medium,mechanics
+"The bulk modulus of water is \( 2.0 \times \)
+\( 10^{9} N / m^{2} \) The pressure required to
+increase the density of water by \( 0.1 \% \) is
+A \( \cdot 2.0 \times 10^{3} N / m^{2} \)
+B . \( 2.0 \times 10^{6} N / m^{2} \)
+C \( \cdot 2.0 \times 10^{5} \mathrm{N} / \mathrm{m}^{2} \)
+D. \( 2.0 \times 10^{7} N / m^{2} \)",Physics,bulk modulus water 20 time 109 m2 pressure require increase density water 01 cdot 20 time 103 m2 20 time 106 m2 cdot 20 time 105 mathrmn mathrmm2 20 time 107 m2,Other,Unknown,1053,2,70,55,Hard,thermodynamics
+Explain the Indian concept in context of the origin of the universe?,Physics,explain indian concept context origin universe,Other,Unknown,1071,7,71,284,Hard,thermodynamics
+"A body is thrown vertically upwards and rises to a height of \( 10 \mathrm{m} \). The time taken
+by the body to reach the highest point is
+A. 1.43 s
+B. 4.1 s
+c. 1.24 s
+D. 2.86 s",Physics,body throw vertically upwards rise height 10 mathrmm time take body reach high point 143 41 124 286,Other,Unknown,1032,10,75,160,Hard,kinematics
+"The amplitude and the time period in a
+S.H.M. is \( 0.5 \mathrm{cm} \) and 0.4 see respectively If the initial phase is \( r / 2 \) radiam,then the equaction of S.H.H. will be
+A \( \cdot y=0.5 \sin 5 / \pi \)
+B. \( y=0.5 \sin 4 / \pi \)
+c. \( y=0.5 \sin 2.5 / \pi \)
+D. \( y=0.5 \cos 5 \pi t \)",Physics,amplitude time period shm 05 mathrmcm 04 see respectively initial phase radiamthen equaction shh cdot y05 sin pi y05 sin pi y05 sin 25 pi y05 cos pi,Other,Unknown,1070,9,78,227,Hard,kinematics
+"Match column I with column II and
+select the correct option from the codes
+given below",Physics,match column column ii select correct option code give,Other,Unknown,1059,9,62,109,Medium,mechanics
+"When sound travels from air to water,
+the quantity that remains unchanged is:
+A . speedd
+B. wavelength
+c. intensity
+D. frequency",Physics,sound travel air water quantity remain unchanged speedd wavelength intensity frequency,Other,Unknown,1025,6,24,183,Easy,other
+"The component of a vector r along x-axis
+will have maximum value if:
+\( A \cdot r \) is along positive \( y \) -axis
+B. r is along positive x-axis
+C . r makes an angle of \( 45^{\circ} \) with the x-axis
+D. r is along negative y-axis",Physics,component vector along xaxis maximum value cdot along positive axis along positive xaxis make angle 45circ xaxis along negative yaxis,Other,Unknown,1062,3,97,101,Hard,kinematics
+"The binary number of decimal number
+\( (9.25)_{10} \) is
+A . 1101.01
+в. 1001.01
+c. 1001.10
+D. 1110.010",Physics,binary number decimal number 925_10 110101 100101 100110 1110010,Other,Unknown,1045,2,43,102,Medium,optics
+"In pair annihilation the least number of
+\( \gamma \) - ray photons produced is :
+\( A \cdot 2 \)
+B. 3
+\( c \cdot 4 \)
+D.",Physics,pair annihilation least number gamma ray photon produce cdot cdot,Other,Unknown,1019,6,93,237,Hard,kinematics
+"Which of the following is minimum at the poles?
+A. Angle of dip
+B. Horizontal component of the earth's magnetic field
+c. Angle of declination
+D. Vertical component of the earth's magnetic field",Physics,follow minimum pole angle dip horizontal component earth magnetic field angle declination vertical component earth magnetic field,Other,Unknown,1049,3,56,162,Medium,mechanics
+"Find the electric field in the region
+labelled 3
+\( A \cdot 0 \)
+B \( \cdot k_{e} \frac{q}{r^{2}} \)
+\( c \cdot 2 k_{e} \frac{q}{r^{2}} \)
+\( \mathrm{D} \cdot 3 k_{e} \frac{q}{r^{2}} \)",Physics,find electric field region label cdot cdot k_e fracqr2 cdot k_e fracqr2 mathrmd cdot k_e fracqr2,Other,Unknown,1039,3,58,169,Medium,electricity
+"The excess pressure inside a spherical soap bubble of radius \( 1 \mathrm{cm} \) is balanced
+by a column of oil (specific gravity \( = \) 0.8)\( , 2 m m \) high, the surface tension of
+the bubble is :
+A. \( 3.92 \mathrm{N} / \mathrm{m} \)
+в. 0.0392 N / \( m \)
+c. \( 0.392 \mathrm{N} / \mathrm{m} \)
+D. \( 0.00392 \mathrm{N} / \mathrm{m} \)",Physics,excess pressure inside spherical soap bubble radius mathrmcm balanced column oil specific gravity 08 high surface tension bubble 392 mathrmn mathrmm 00392 0392 mathrmn mathrmm 000392 mathrmn mathrmm,Other,Unknown,1082,7,34,107,Easy,other
+"In YDSE, let \( A \) and \( B \) be two slits. Films
+of thicknesses \( t_{A} \) and \( t_{B} \) and refractive
+indices \( \mu_{A} \) and \( \mu_{B} \) are placed in front of
+\( A \) and \( B, \) respectively. If \( \mu_{A} t_{A}=\mu_{B} t_{B} \)
+then the central maxima will :
+A. Not shift
+B. Shift toward \( A \)
+c. shift toward \( B \)
+D. (b) if \( t_{B}>t_{A} \) and (c) if \( t_{B}<t_{A} \)",Physics,ydse let two slit film thickness t_a t_b refractive index mu_a mu_b place front respectively mu_a t_amu_b t_b central maxima shift shift toward shift toward t_bt_a t_bt_a,Other,Unknown,1079,1,30,194,Easy,other
+"What happens when you strike a metal plate with a metal stick?
+A. The plate vibrates and produces sound.
+B. The plate vibrates and does not produce sound
+c. The plate does not vibrate but produces sound.
+D. The plate neither vibrates nor produces sound",Physics,happen strike metal plate metal stick plate vibrate produce sound plate vibrate produce sound plate vibrate produce sound plate neither vibrate produce sound,Other,Unknown,1092,3,63,299,Medium,optics
+"Which of the following can be used to lift giant industrial machines?
+A. electromagnets
+B. permanent magnets
+c. both A and B
+D. none of the above",Physics,follow use lift giant industrial machine electromagnet permanent magnet none,Other,Unknown,1015,10,95,131,Hard,thermodynamics
+"Can a satellite move in a stable orbit in
+a plane not passing through the earth's centre? Explain.",Physics,satellite move stable orbit plane pass earth centre explain,Other,Unknown,1049,8,51,239,Medium,optics
+"What is NAND gate? Write its truth
+table.",Physics,nand gate write truth table,Other,Unknown,1081,3,20,212,Easy,other
+"A wire having a linear density of 0.05 \( \mathrm{gm} / \mathrm{cm} \) is stretched between two rigid supports with a tension of \( 4.5 \times 10^{7} \)
+dynes. It is observed that the wire resonates at a frequency of 420 cycles/sec. The next higher frequency at which the same wire resonates is 490
+cycles/sec. The length of wire is approximately
+A. \( 314 \mathrm{cm} \)
+B. 254 cm
+c. \( 214 \mathrm{cm} \)
+D. 354 cm",Physics,wire linear density 005 mathrmgm mathrmcm stretch two rigid support tension 45 time 107 dyne observe wire resonate frequency 420 cyclessec next high frequency wire resonate 490 cyclessec length wire approximately 314 mathrmcm 254 cm 214 mathrmcm 354 cm,Other,Unknown,1060,10,77,275,Hard,kinematics
+"Which of the following pairs is
+mismatch?
+A. Pedology - Study of soil
+B. Kinesiology - Study of fossils
+C. limnology - Study of fresh water ecosystem
+D. Physiology - Study of processes and functions of life",Physics,follow pair mismatch pedology study soil kinesiology study fossil limnology study fresh water ecosystem physiology study process function life,Other,Unknown,1088,8,70,165,Hard,thermodynamics

@@ -1,0 +1,179 @@
+Questions,Subject,cleaned_question,topic,Topic_Difficulty,student_id,quiz_attempt,score,time_taken,difficulty,recommended_next_topic
+"Choose the correct statements:
+This question has multiple correct options
+A. It is easier to fabricate 10000 AND gates using circuit components than on an integrated chip.
+B. It is easier to fabricate 10000 AND gates on an integrated chip than fabricating them using circuit components.
+C. It is easier to fabricate a single AND gate using circuit components as compared to on an IC.
+D. It is easier to fabricate a single AND gate on an IC as compared to using circuit components.",Physics,choose correct statement question multiple correct option easy fabricate 10000 gate use circuit component integrate chip easy fabricate 10000 gate integrate chip fabricating use circuit component easy fabricate single gate use circuit component compare ic easy fabricate single gate ic compare use circuit component,Electricity,Hard,1032,2,77,72,Hard,thermodynamics
+"Assertion
+A given transformer can be used to
+step-up or step-down the voltage
+Reason
+The output voltage depends upon the
+ratio of the number of turns of the two
+coils of the transformer
+A. Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is
+not the correct explanation for Assertion
+C. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,assertion give transformer use stepup stepdown voltage reason output voltage depend upon ratio number turn two coil transformer assertion reason correct reason correct explanation assertion assertion reason correct reason correct explanation assertion assertion correct reason incorrect assertion reason incorrect,Electricity,Hard,1006,8,67,278,Medium,optics
+"Calculate the capacitance (in farads) of
+a charged, parallel-plate capacitor. Given the potential difference between
+the plates is equal to \( X \) volts and the
+amount of charge on the POSITIVE plate
+is equal to \( Y \) coulombs.
+A \( \cdot \frac{X}{2 Y} \)
+в. \( \frac{Y}{2 X} \)
+\( c \cdot \frac{Y}{X} \)
+D. \( \frac{2 Y}{X} \)
+E \( \cdot \frac{2 X}{Y} \)",Physics,calculate capacitance farad charge parallelplate capacitor give potential difference plate equal volt amount charge positive plate equal coulomb cdot fracx2 fracy2 cdot fracyx frac2 yx cdot frac2 xy,Electricity,Hard,1095,8,44,50,Medium,optics
+"The frequency of applied alternating voltage is 2 KHz.its time period will
+be
+A \( .0 .5 \times 10^{-3} \) second
+B. 5 second
+c. 0.5 second
+D. 2 second",Physics,frequency apply alternating voltage khzit time period times 103 second second 05 second second,Electricity,Hard,1067,7,38,260,Easy,electricity
+"A wire has a resistance of \( 10 \Omega \). It is
+stretched by \( 1 / 10 \) of its original length. Then its resistance will be
+A. \( 9 \Omega \)
+B. \( 10 \Omega \)
+c. \( 11 \Omega \)
+D. \( 12.1 \Omega \)",Physics,wire resistance 10 omega stretch 10 original length resistance omega 10 omega 11 omega 121 omega,Electricity,Hard,1081,4,53,228,Medium,optics
+"In the given in each the current in
+each resistance is:
+A. \( 0 A \)
+B. \( 1 A \)
+c. \( 0.25 A \)
+D. \( 0.5 A \)",Physics,give current resistance 025 05,Electricity,Hard,1054,5,85,187,Hard,kinematics
+"When two charged objects attract each other, the objects carry:
+A. same charges
+B. opposite charges
+c. no charges
+D. none of the above",Physics,two charge object attract object carry charge opposite charge charge none,Electricity,Hard,1051,10,68,134,Medium,optics
+"When connected to the \( 220 \mathrm{V} \) mains
+supply, the current in a toaster, a kettle, a lamp and a fan is \( 5.2 \mathrm{A}, 9.4 \mathrm{A}, 0.5 \mathrm{A} \) and 2.6A respectively. Which appliance has the greatest electrical resistance?
+A. toaster
+B. kettlein
+c. lamp
+D. fan",Physics,connect 220 mathrmv main supply current toaster kettle lamp fan 52 mathrma 94 mathrma 05 mathrma 26a respectively appliance great electrical resistance toaster kettlein lamp fan,Electricity,Hard,1086,6,66,183,Medium,electricity
+"\( \mathbf{5 0} \boldsymbol{V} \) battery is supplying current of \( \mathbf{1 0} \) amp when connected to a resistor. If the
+efficiency of battery at this current is 25
+\%. Then internal resistance of battery
+is:-
+A . \( 2.5 \Omega \)
+B. \( 3.75 \Omega \)
+c. \( 1.25 \Omega \)
+D. \( 5 \Omega \)",Physics,mathbf5 boldsymbolv battery supply current mathbf1 amp connect resistor efficiency battery current 25 internal resistance battery 25 omega 375 omega 125 omega omega,Electricity,Hard,1087,8,82,261,Hard,thermodynamics
+"An electric bulb is marked \( 200 \vee, 100 W \)
+Calculate electrical resistance of its
+filament. If five such bulbs are
+connected in series to a \( 200 \mathrm{V} \) supply, how much current will flow through them?",Physics,electric bulb mark 200 vee 100 calculate electrical resistance filament five bulb connect series 200 mathrmv supply much current flow,Electricity,Hard,1010,5,20,272,Easy,electricity
+"State True or False :
+Convection currents are set up giving rise to sea breezes.
+A. True
+B. False",Physics,state true false convection current set give rise sea breeze true false,Electricity,Hard,1030,8,59,219,Medium,optics
+"A resistor \( R, \) an inductor \( L \) and
+capacitor \( C \) are connected in series to
+an oscillator of frequency \( n \). If the
+resonant frequency is \( n_{r}, \) then the current lags behind voltage, when
+\( \mathbf{A} \cdot n=0 \)
+в. \( n<n_{r} \)
+c \( \cdot n=n_{r} \)
+\( \mathbf{D} \cdot n>n_{r} \)",Physics,resistor inductor capacitor connect series oscillator frequency resonant frequency n_r current lag behind voltage mathbfa cdot n0 nn_r cdot nn_r mathbfd cdot nn_r,Electricity,Hard,1056,9,47,109,Medium,mechanics
+"For a current carrying inductor, emf associated in \( 20 m V . \) Now, current
+through it changes from \( 6 A \) to \( 2 A \) in \( 2 s \) The coefficient of mutual inductance is
+\( \mathbf{A} \cdot 20 m H \)
+в. \( 10 m H \)
+\( \mathbf{c} \cdot 1 m H \)
+D. \( 2 m H \)",Physics,current carrying inductor emf associate 20 current change coefficient mutual inductance mathbfa cdot 20 10 mathbfc cdot,Electricity,Hard,1059,5,100,122,Hard,thermodynamics
+"A circular coil of radius \( R \) carries an
+electric current. The magnetic field due to the coil at a point on the axis of the coil located at a distance \( r \) from the
+centre of the coil, such that \( r>>R \)
+varies as
+A. \( 1 / r \)
+B . \( 1 / r^{3 / 2} \)
+c. \( 1 / r^{2} \)
+D. \( 1 / r^{3} \)",Physics,circular coil radius carry electric current magnetic field due coil point axis coil locate distance centre coil rr vary r3 r2 r3,Electricity,Hard,1075,7,94,72,Hard,thermodynamics
+"Two batteries of emf \( \boldsymbol{E}_{1} \) and \( \boldsymbol{E}_{2}\left(\boldsymbol{E}_{2}>\right. \)
+\( E_{1} \) ) and internal resistance \( r_{1} \) and \( r_{2} \)
+respectively are connected in parallel as shown in figure",Physics,two battery emf boldsymbole_1 boldsymbole_2leftboldsymbole_2right e_1 internal resistance r_1 r_2 respectively connect parallel show figure,Electricity,Hard,1006,5,74,291,Hard,kinematics
+"Open circuit voltage of a source is 7.86 V and its short circuit current is 9.25 A. Find the current when an external
+resistance of \( 2.4 \Omega \) is connected
+A . \( 1.4 \mathrm{A} \)
+B. 1.82A
+c. 2.01A
+D. 2.4A",Physics,open circuit voltage source 786 short circuit current 925 find current external resistance 24 omega connect 14 mathrma 182a 201a 24a,Electricity,Hard,1048,10,76,133,Hard,thermodynamics
+"Resistor is coloured as green - orange -
+yellow - gold,its resistance will be:
+A. \( 53 \times 10^{4} \pm 10 \% \)
+В. \( 54 \times 10^{4} \pm 10 \% \)
+c. \( 42 \times 10^{4} \pm 10 \% \)
+D. \( 53 \times 10^{4} \pm 5 \% \)",Physics,resistor colour green orange yellow goldit resistance 53 time 104 pm 10 54 time 104 pm 10 42 time 104 pm 10 53 time 104 pm,Electricity,Hard,1055,8,70,137,Hard,thermodynamics
+"An ideal dipole of dipole moment \( \vec{p} \) is placed in front of an uncharged conducting sphere of radius \( R \) as shown
+A \( \cdot \) The potential at point \( A \) is \( \frac{K P}{(r-R)^{2}} \)
+B. The potential at point A is \( \frac{K P}{r^{2}} \)
+C the potential due to dipole at point B is \( \frac{K P}{(r+R)^{2}} \)
+D. The potential due to dipole at point B is \( \frac{K}{r^{2}} \)",Physics,ideal dipole dipole moment vecp place front uncharged conduct sphere radius show cdot potential point frack prr2 potential point frack pr2 potential due dipole point frack prr2 potential due dipole point frackr2,Electricity,Hard,1020,8,93,175,Hard,kinematics
+"Four charges, all of the same magnitude, are placed at the four corners of a square. At the centre of the
+square, the potential is \( \mathrm{V} \) and the field
+is E. With suitable choices of the signs of the four charges, which of the following can be obtained? This question has multiple correct options
+A. \( V=0, E=0 \)
+B. \( V=0, E \neq 0 \)
+c. \( V \neq 0, E=0 \)
+D. \( V \neq 0, E \neq 0 \)",Physics,four charge magnitude place four corner square centre square potential mathrmv field suitable choice sign four charge follow obtain question multiple correct option v0 e0 v0 neq neq e0 neq neq,Electricity,Hard,1009,5,89,132,Hard,thermodynamics
+"Assertion: A series combination of cells
+is used when their internal resistance
+is much smaller than the external
+resistance
+Reason: It follows from the relation \( \boldsymbol{I}= \) \( \frac{n E}{R+n r}, \) where the symbols have their standard meaning.
+A. Both (A) and (R) are true and (R) is the correct explanation of A
+B. Both (A) and (R) are true but (R) is not the correct explanation of A
+c. (A) is true but (R) is false
+D. (A) is false but (R) is true",Physics,assertion series combination cell use internal resistance much small external resistance reason follow relation boldsymboli fracn ern symbol standard mean true correct explanation true correct explanation true false false true,Electricity,Hard,1037,10,60,171,Medium,optics
+"A wire bent as shown in Figure carries a current \( I \). Find the magnetic field at \( P: \)
+A \( \frac{\mu_{0}}{4} \)
+в. \( \frac{3 \mu_{0}}{2 R} \)
+c. \( \frac{7 \mu_{0} I}{8 R} \)
+D. \( \frac{\mu_{0}}{8_{D}} \)",Physics,wire bent show figure carry current find magnetic field fracmu_04 frac3 mu_02 frac7 mu_0 i8 fracmu_08_d,Electricity,Hard,1010,2,33,151,Easy,electricity
+"Two lamps, one rates \( 100 \mathrm{W} ; 220 \mathrm{V} \), and
+the other \( 60 \mathrm{W} ; 220 \mathrm{V} \) are connected in parallel to electric mains supply. Find the current drawn by two bulbs from the line, if the supply voltage is \( 220 \mathrm{V} \)",Physics,two lamp one rate 100 mathrmw 220 mathrmv 60 mathrmw 220 mathrmv connect parallel electric main supply find current draw two bulb line supply voltage 220 mathrmv,Electricity,Hard,1061,10,99,265,Hard,thermodynamics
+"A cell supplies a current of \( 0.9 A \)
+through a \( 2 \Omega \) resistor and a current of \( 0.3 A \) through a \( 7 \Omega \) resistor. The
+internal resistance of the cell is :-
+\( \mathbf{A} \cdot 1.0 \Omega \)
+B. \( 0.5 \Omega \)
+c. \( 2.0 \Omega \)
+D. \( 1.2 \Omega \)",Physics,cell supply current 09 omega resistor current 03 omega resistor internal resistance cell mathbfa cdot 10 omega 05 omega 20 omega 12 omega,Electricity,Hard,1040,9,69,200,Medium,mechanics
+"Convection currents are possible in solids
+A . True
+B. False",Physics,convection current possible solid true false,Electricity,Hard,1096,5,71,57,Hard,kinematics
+"If the forward bias on p-njunction is
+increased from zero to \( 0.045 V \), then no
+current flows in the circuit. The
+contact potential of junction i.e. \( V_{B} \) is
+A. zero
+B. \( 0.045 V \)
+C. more than \( 0.045 V \)
+D. less than \( 0.045 V \)",Physics,forward bias pnjunction increase zero 0045 current flow circuit contact potential junction ie v_b zero 0045 0045 less 0045,Electricity,Hard,1061,10,64,101,Medium,electricity
+"The mutual inductance of a pair of coils, each of \( \mathrm{N} \) turn, be M henry. If a current of i ampere in one of the coils is brought to zero in \( t \) second, the emf induced per turn in the other coil, in volt will be
+A \( \cdot \frac{M i}{t} \)
+в. \( \frac{N M i}{t} \)
+c. \( \frac{M N}{i t} \)
+D. \( \frac{M^{i}}{N t} \)",Physics,mutual inductance pair coil mathrmn turn henry current ampere one coil bring zero second emf induce per turn coil volt cdot fracm fracn fracm ni fracmin,Electricity,Hard,1050,9,69,217,Medium,optics
+"A certain current on passing through a galvanometer produces a deflection of 100 divisions. When a shunt of one ohm
+is connected, the deflection reduces to
+1 division. The galvanometer resistance is
+A. \( 100 \Omega \)
+B. \( 99 \Omega \)
+\( c .10 \Omega \)
+D. \( 9.9 \Omega \)",Physics,certain current pass galvanometer produce deflection 100 division shunt one ohm connect deflection reduce division galvanometer resistance 100 omega 99 omega 10 omega 99 omega,Electricity,Hard,1082,1,80,70,Hard,thermodynamics
+When the magnetic flux associated with a coil changes an emf is induced in the circuit. State Faraday's law of electromagnetic induction.,Physics,magnetic flux associate coil change emf induced circuit state faraday law electromagnetic induction,Electricity,Hard,1040,2,80,228,Hard,kinematics
+"Fill in the blanks.
+During reverse bias of the diode there is a small current of the order of micro
+ampere due to",Physics,fill blank reverse bias diode small current order micro ampere due,Electricity,Hard,1024,3,38,101,Easy,electricity
+"Equivalent resistance of the system and potential difference across the external resistance in the figure.
+A \( . r, \)
+в. \( r, E \)
+\( c \cdot o, E \)
+' \( r, \frac{E R}{R+r} \)",Physics,equivalent resistance system potential difference across external resistance figure cdot frace rrr,Electricity,Hard,1044,1,38,134,Easy,electricity

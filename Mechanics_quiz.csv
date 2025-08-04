@@ -1,0 +1,182 @@
+Questions,Subject,cleaned_question,topic,Topic_Difficulty,student_id,quiz_attempt,score,time_taken,difficulty,recommended_next_topic
+"Two bodies have same mass and speed,
+then:
+A. their momentums are same
+B. the ratio of momentums is not determined
+C. the ratio of their magnitudes of momentum is one
+D. both (B) and (C) are correct",Physics,two body mass speed momentum ratio momentum determined ratio magnitude momentum one correct,Mechanics,Medium,1093,2,51,41,Medium,electricity
+"Which one of the following statements
+is true?
+A. A motor works on the principle of electromagnetic induction
+B. An electric motor converts mechanical energy into electrical energy
+C. AC generator has slip rings while DC generator has a commutator
+D. An electric generator converts electrical energy into mechanical energy",Physics,one follow statement true motor work principle electromagnetic induction electric motor convert mechanical energy electrical energy ac generator slip rings dc generator commutator electric generator convert electrical energy mechanical energy,Mechanics,Medium,1057,9,54,136,Medium,mechanics
+"Which of the statements are false?
+A. The units of physical quantity represented by volume is \( c m^{3} \)
+B. The unit of physical quantity represented by mass is \( \operatorname{ton} \)
+C the work done is represented by \( \frac{k g}{m} \)
+D. The unit of physical quantity represented by weight is Newton",Physics,statement false unit physical quantity represent volume m3 unit physical quantity represent mass operatornameton work do represent frack gm unit physical quantity represent weight newton,Mechanics,Medium,1010,3,54,99,Medium,electricity
+"A man tries to remain in equilibrium,
+This question has multiple correct options
+A. he must exert equal forces on the two walls
+B. the forces of friction at the two walls must be equal.
+C. friction must be present on both walls
+D. the coefficients of friction must be the same between
+both walls and the man",Physics,man try remain equilibrium question multiple correct option must exert equal force two wall force friction two wall must equal friction must present wall coefficient friction must wall man,Mechanics,Medium,1057,3,38,138,Easy,mechanics
+"The condition occurring due to gradual decrease in power of accommodation because of ageing is called
+A. Near-sightedness
+B. Hypermetropia
+c. Presbyopia
+D. cataract",Physics,condition occur due gradual decrease power accommodation age call nearsightedness hypermetropia presbyopia cataract,Mechanics,Medium,1026,2,82,246,Hard,kinematics
+"The mass of object \( A \) is 5 kg,that of object B is \( 40 \mathrm{kg} \),that of object \( \mathrm{C} \) is 38 kg,and that of object D is 56 kg. Which object has the greatest inertia?
+\( A \cdot A \)
+B. B
+\( c \cdot c \)
+\( D \)",Physics,mass object kgthat object 40 mathrmkg object mathrmc 38 kgand object 56 kg object great inertia cdot cdot,Mechanics,Medium,1072,6,43,262,Medium,mechanics
+"A charge \( Q \) is to be distributed on two
+objects, \( A \) and \( B \). The values of the
+charges on the objects are such that the force between the objects will be
+maximum. The ratio \( Q_{A}: Q_{B} \) will be
+A . 1: 1
+B. 1: 2
+c. 1: 3
+D. 1: 4",Physics,charge distribute two object value charge object force object maximum ratio q_a q_b,Mechanics,Medium,1009,7,52,274,Medium,electricity
+"A rubber balloons of negligible mass is filled with \( 500 g \) of water. Its weight in water will be:
+A \( .250 g \)
+в. \( 500 g \)
+c. zero
+D. \( 100 g \)",Physics,rubber balloon negligible mass fill 500 water weight water 250 500 zero 100,Mechanics,Medium,1024,4,98,87,Hard,thermodynamics
+"In each fission of \( _{92}^{235} \mathrm{U}, 200 \mathrm{MeV} \) energy is released. How many fissions must occur per second to produce power of \( \mathbf{1} k W ? \)
+A \( \cdot 1.25 \times 10^{18} \)
+В. \( 3.125 \times 10^{13} \)
+C \( .3 .2 \times 10^{18} \)
+D. \( 1.25 \times 10^{13} \)",Physics,fission _ 92235 mathrmu 200 mathrmmev energy release many fission must occur per second produce power mathbf1 cdot 125 time 1018 3125 time 1013 time 1018 125 time 1013,Mechanics,Medium,1045,8,88,101,Hard,thermodynamics
+"Three equal charges, each having a
+magnitude of \( 2.0 \times 10^{-6} C \) are placed
+at the three corners of a right angled triangle of sides \( 3 \mathrm{cm}, 4 \mathrm{cm} \) and \( 5 \mathrm{cm} \) The force (in magnitude) on the charge
+at the right angled corner is :
+\( A .50 N \)
+B . \( 26 N \)
+\( \mathbf{c} \cdot 29 N \)
+D. 45.9 N",Physics,three equal charge magnitude 20 time 106 place three corner right angle triangle side mathrmcm mathrmcm mathrmcm force magnitude charge right angle corner 50 26 mathbfc cdot 29 459,Mechanics,Medium,1064,6,96,256,Hard,thermodynamics
+"The K.E. of a body is increased most by doubling its :
+A. mass
+B. weigth
+c. speed
+D. P.E",Physics,ke body increase double mass weigth speed pe,Mechanics,Medium,1092,3,54,106,Medium,optics
+"The surface temperature of the sun
+which has maximum energy emission at \( 500 \mathrm{nm} \) is \( 6000 \mathrm{K} \). The temperature of a star which has maximum energy emission at \( 400 \mathrm{nm} \) will be
+\( \mathbf{A} .8500 K \)
+в. \( 4500 K \)
+c. \( 7500 K \)
+D. \( 6500 K \)",Physics,surface temperature sun maximum energy emission 500 mathrmnm 6000 mathrmk temperature star maximum energy emission 400 mathrmnm mathbfa 8500 4500 7500 6500,Mechanics,Medium,1050,4,72,275,Hard,thermodynamics
+"Mark the correct statements about the
+friction between two bodies.
+This question has multiple correct options
+A. Static friction is always greater than the kinetic friction.
+B. Coefficient of static friction is always greater than the coefficient of kinetic friction.
+C. limiting friction is always greater than the kinetic friction.
+D. limiting friction is never less than static friction.",Physics,mark correct statement friction two body question multiple correct option static friction always great kinetic friction coefficient static friction always great coefficient kinetic friction limit friction always great kinetic friction limit friction never less static friction,Mechanics,Medium,1055,5,65,265,Medium,mechanics
+"\( 420 J \) of energy supplied to \( 10 g m \) of water will raise its temperature by
+\( \mathbf{A} \cdot 1^{\circ} C \)
+в. \( 4.2^{\circ} \mathrm{C} \)
+\( \mathrm{c} \cdot 10^{\circ} \mathrm{C} \)
+D. \( 42^{\circ} \mathrm{C} \)",Physics,420 energy supply 10 water raise temperature mathbfa cdot 1circ 42circ mathrmc mathrmc cdot 10circ mathrmc 42circ mathrmc,Mechanics,Medium,1064,4,73,282,Hard,kinematics
+"Does the principle of conservation of energy hold for interference and
+diffraction phenomena? Explain briefly.",Physics,principle conservation energy hold interference diffraction phenomenon explain briefly,Mechanics,Medium,1022,9,38,54,Easy,mechanics
+"The output power in step-up transformer used in practice is
+A. Greater than the input power
+B. Equal to the input power
+c. Less than the input power
+D. None of the above",Physics,output power stepup transformer use practice great input power equal input power less input power none,Mechanics,Medium,1044,1,35,259,Easy,mechanics
+"A star behaves like a perfectly black body emitting radiant energy. The ratio of radiant energy emitted per second by this star to that emitted by another star having 8 times the radius of former, but
+having temperature one-fourth of that of the former in kelvin is :
+\( A \cdot 1: 4 \)
+B . 1: 16
+\( c \cdot 4: 1 \)
+D. 16:1",Physics,star behave like perfectly black body emit radiant energy ratio radiant energy emit per second star emit another star times radius former temperature onefourth former kelvin cdot 16 cdot 161,Mechanics,Medium,1018,5,43,211,Medium,optics
+"In a dc circuit the power generated per unit volume of the conductor is directly proportional to:
+A. current
+B. electric filed inside the conductor
+c. resistivity of the condutor
+D. square of the electric field",Physics,dc circuit power generate per unit volume conductor directly proportional current electric file inside conductor resistivity condutor square electric field,Mechanics,Medium,1033,6,64,37,Medium,mechanics
+"When the separation between the two charges is increased the electric
+potential energy of the charges
+A. Increases
+B. Decreases
+c. Remains unchanged
+D. May increase or decrease",Physics,separation two charge increase electric potential energy charge increase decrease remain unchanged may increase decrease,Mechanics,Medium,1099,2,55,281,Medium,electricity
+"A small steel ball falls through a syrup at a constant speed of \( 10 \mathrm{cm} / \mathrm{sec} \). If the steel ball is pulled upwards with a force equal to twice its effective weight; how fast will it move upwards?
+A. \( 10 \mathrm{cm} / \mathrm{sec} \)
+в. \( 20 \mathrm{cm} / \mathrm{sec} \)
+\( \mathrm{c} \cdot 5 \mathrm{cm} / \mathrm{sec} \)
+D. \( 0 \mathrm{cm} / \mathrm{sec} \)",Physics,small steel ball fall syrup constant speed 10 mathrmcm mathrmsec steel ball pull upwards force equal twice effective weight fast move upwards 10 mathrmcm mathrmsec 20 mathrmcm mathrmsec mathrmc cdot mathrmcm mathrmsec mathrmcm mathrmsec,Mechanics,Medium,1065,4,39,151,Easy,mechanics
+"The force experienced by a charged particle of charge \( q \) at (1,1,1) is
+A. \( -5 q \)
+в. \( 5 q \hat{\imath} \)
+c. \( 5 q(\hat{i}+\hat{j}) \)
+D. \( -5 q(\hat{i}+\hat{j}) \)",Physics,force experience charge particle charge 111 hatimath qhatihatj qhatihatj,Mechanics,Medium,1071,1,93,207,Hard,kinematics
+"Assertion
+The flow of heat energy from one body to the other depends upon the amount of heat energy in them
+Reason
+Heat flows from lower temperature of the body to higher temperature of the body
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,assertion flow heat energy one body depend upon amount heat energy reason heat flow low temperature body high temperature body assertion reason correct reason correct explanation assertion assertion reason correct reason correct explanation assertion assertion correct reason incorrect assertion reason incorrect,Mechanics,Medium,1005,2,75,161,Hard,kinematics
+"A wire is placed to the lines of force in a
+magnetic field and a current flows in
+the wire. Then
+A. the wire will experience a force in the direction of magnetic field
+B. the wire will not experience any force at all
+C. the wire will experience a force in a direction opposite to the field
+D. it experiences a force in a direction perpendicular to lines of force",Physics,wire place line force magnetic field current flows wire wire experience force direction magnetic field wire experience force wire experience force direction opposite field experience force direction perpendicular line force,Mechanics,Medium,1055,6,58,70,Medium,mechanics
+"When a 1 ohm resistor is connected
+across the potential difference of \( 20 \mathrm{V} \) what will be power dissipation in it?
+\( \mathbf{A} \cdot 200 W \)
+в. \( 20 W \)
+c. \( 400 W \)
+D. \( 10 W \)",Physics,ohm resistor connect across potential difference 20 mathrmv power dissipation mathbfa cdot 200 20 400 10,Mechanics,Medium,1045,2,37,246,Easy,mechanics
+"A capacitor has some dielectric between its plates, and the capacitor is connected to a dc source. The battery is
+now disconnected and then the
+dielectric is removed, then
+A. capacitance will increase
+B. energy stored will decrease.
+c. electric field will increase
+D. Voltage will decrease",Physics,capacitor dielectric plate capacitor connect dc source battery disconnect dielectric remove capacitance increase energy store decrease electric field increase voltage decrease,Mechanics,Medium,1071,10,42,72,Medium,optics
+"If impulse \( I \) varies with time \( t \) as
+\( f\left(k g m s^{-1}\right)=20 t^{2}-40 t . \) The change in
+momentum is minimum at
+\( \mathbf{A} \cdot t=1 s \)
+B . \( t=2 s \)
+c. \( _{t=\frac{1}{2} s} \)
+D. \( t=\frac{3}{2} s \)",Physics,impulse vary time fleftk s1right20 t240 change momentum minimum mathbfa cdot t1 t2 _ tfrac12 tfrac32,Mechanics,Medium,1053,10,89,98,Hard,kinematics
+"A boy stands on the ground. The area
+below his feet is \( 70 \mathrm{cm}^{2} \). The pressure he
+exerts on the ground is \( 7 N / c m^{2} \)
+Calculate the total force acting on the ground.
+A . \( 0.1 N \)
+в. \( 10 N \)
+c. \( 490 N \)
+D. \( 4.9 N \)",Physics,boy stand ground area feet 70 mathrmcm2 pressure exert ground m2 calculate total force act ground 01 10 490 49,Mechanics,Medium,1077,1,71,106,Hard,thermodynamics
+"The mass of a solid rectangle block of
+iron is \( 23.6 g \) and its dimensions are
+\( 2.1 \mathrm{cm} \times 1.2 \mathrm{cm} \times 1.1 \mathrm{cm} . \) Calculate the
+density of iron.",Physics,mass solid rectangle block iron 236 dimension 21 mathrmcm times 12 mathrmcm times 11 mathrmcm calculate density iron,Mechanics,Medium,1039,8,71,147,Hard,thermodynamics
+"In the electrical network, at \( t<0 \) (as
+given in the figure), key is placed on (1)
+till the capacitor got fully charged. Key
+is placed on (2) at \( t=0 . \) Time when the
+energy in both the capacitor and the
+inductor will be same for the first time
+is
+A \( \cdot \frac{\pi}{4} \sqrt{L C} \)
+B. \( \frac{3 \pi}{4} \sqrt{L C} \)
+C \( \cdot \frac{\pi}{3} \sqrt{L C} \)
+D. \( \frac{2 \pi}{3} \sqrt{L C} \)",Physics,electrical network t0 give figure key place till capacitor get fully charge key place t0 time energy capacitor inductor first time cdot fracpi4 sqrtl frac3 pi4 sqrtl cdot fracpi3 sqrtl frac2 pi3 sqrtl,Mechanics,Medium,1003,2,29,249,Easy,mechanics
+"Temperature can be expressed as a
+derived quantity in terms of :
+A. length and mass
+B. mass and time
+c. length, mass and time
+D. none of these",Physics,temperature express derive quantity term length mass mass time length mass time none,Mechanics,Medium,1016,7,94,56,Hard,kinematics
