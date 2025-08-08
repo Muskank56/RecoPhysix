@@ -30,7 +30,7 @@ It analyzes student performance and recommends personalized quizzes based on top
 
 ## 🔹 Requirements
 1. Python packages listed in requirements.txt
-2. Dataset used listed in RecoPhysix_Dataset.csv
+2. Dataset used listed in RecoPhysix_preprocessed_dataset.csv
 
 ## 📌 Author
 Muskan Kanaujia  
