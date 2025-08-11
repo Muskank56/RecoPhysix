@@ -1,0 +1,522 @@
+Questions,Subject,Question,option_1,option_2,option_3,option_4,correct_answer,topic,Topic_Difficulty,student_id,quiz_attempt,score,time_taken,difficulty,recommended_next_topic,topic_enc,diff_enc,target_enc,quiz_id,quiz_question,question,Correct_Option_Number
+"In a circuit two or more cells of the
+same e.m.f are connected in parallel in
+order to:
+A. increase the P.D across a resistance in the circuit
+B. decrease the P.D across a resistance in the circuit
+C. facilitate drawing more current from the battery system
+D. change the e.m.f across the system of batteries",Physics,"In a circuit two or more cells of the
+same e.m.f are connected in parallel in
+order to:",increase the P.D across a resistance in the circuit,decrease the P.D across a resistance in the circuit,facilitate drawing more current from the battery system,change the e.m.f across the system of batteries,increase the P.D across a resistance in the circuit,Electricity,Hard,1070,10,52,31,Medium,thermodynamics ,0,2,6,QZ0192,"In a circuit two or more cells of the
+same e.m.f are connected in parallel in
+order to:
+A. increase the P.D across a resistance in the circuit
+B. decrease the P.D across a resistance in the circuit
+C. facilitate drawing more current from the battery system
+D. change the e.m.f across the system of batteries","In a circuit two or more cells of the
+same e.m.f are connected in parallel in
+order to:",1
+"When potential difference is applied across an electrolyte, then Ohm's law is obeyed at
+A. zero potential
+B. very low potential
+c. negative potential
+D. high potential",Physics,"When potential difference is applied across an electrolyte, then Ohm's law is obeyed at",zero potential,very low potential,negative potential,high potential,zero potential,Electricity,Hard,1091,1,76,168,Hard,electricity,0,1,0,QZ0014,"When potential difference is applied across an electrolyte, then Ohm's law is obeyed at
+A. zero potential
+B. very low potential
+c. negative potential
+D. high potential","When potential difference is applied across an electrolyte, then Ohm's law is obeyed at",1
+"A rectangular loop carrying a current
+is situated near a long straight wire such that the wire is parallel to the one
+of the sides of the loop and is in the plane of the loop. If a steady current lis established in wire as shown in
+the figure, the loop will
+A. Rotate about an axis parallel to the wire
+B. Move away from the wire or towards right
+c. Move towards the wire
+D. Remain stationary",Physics,"A rectangular loop carrying a current
+is situated near a long straight wire such that the wire is parallel to the one
+of the sides of the loop and is in the plane of the loop. If a steady current lis established in wire as shown in
+the figure, the loop will",Rotate about an axis parallel to the wire,Move away from the wire or towards right,Move towards the wire,Remain stationary,Rotate about an axis parallel to the wire,Electricity,Hard,1087,2,24,267,Easy,kinematics,0,0,1,QZ0331,"A rectangular loop carrying a current
+is situated near a long straight wire such that the wire is parallel to the one
+of the sides of the loop and is in the plane of the loop. If a steady current lis established in wire as shown in
+the figure, the loop will
+A. Rotate about an axis parallel to the wire
+B. Move away from the wire or towards right
+c. Move towards the wire
+D. Remain stationary","A rectangular loop carrying a current
+is situated near a long straight wire such that the wire is parallel to the one
+of the sides of the loop and is in the plane of the loop. If a steady current lis established in wire as shown in
+the figure, the loop will",1
+"By inserting an iron core in a coil carrying current,the strength of its magnetic field will:
+A. Increase
+B. Decrease
+c. Remain same
+D. Become zero",Physics,"By inserting an iron core in a coil carrying current,the strength of its magnetic field will:",Increase,Decrease,Remain same,Become zero,Increase,Electricity,Hard,1041,6,51,101,Medium,thermodynamics ,0,2,6,QZ0290,"By inserting an iron core in a coil carrying current,the strength of its magnetic field will:
+A. Increase
+B. Decrease
+c. Remain same
+D. Become zero","By inserting an iron core in a coil carrying current,the strength of its magnetic field will:",1
+"Three points charges are placed at the
+corners of an equilateral triangle of side
+\( L \) shown in the figure.
+This question has multiple correct options
+A. The potential at the centroid of the triangle is zero
+B. The electric field at the centroid of the triangle is zero
+C. The dipole moment of the system is \( \sqrt{2} q L \)
+D. The dipole moment of the system is \( \sqrt{3} q L \)",Physics,"Three points charges are placed at the
+corners of an equilateral triangle of side
+\( L \) shown in the figure.
+This question has multiple correct options",The potential at the centroid of the triangle is zero,The electric field at the centroid of the triangle is zero,The dipole moment of the system is \( \sqrt{2} q L \),The dipole moment of the system is \( \sqrt{3} q L \),The dipole moment of the system is \( \sqrt{3} q L \),Electricity,Hard,1073,6,46,284,Medium,thermodynamics ,0,2,6,QZ0222,"Three points charges are placed at the
+corners of an equilateral triangle of side
+\( L \) shown in the figure.
+This question has multiple correct options
+A. The potential at the centroid of the triangle is zero
+B. The electric field at the centroid of the triangle is zero
+C. The dipole moment of the system is \( \sqrt{2} q L \)
+D. The dipole moment of the system is \( \sqrt{3} q L \)","Three points charges are placed at the
+corners of an equilateral triangle of side
+\( L \) shown in the figure.
+This question has multiple correct options",4
+"In a p-type semiconductor, the electron current is \( _{-}-_{-}-_{-}- \) the hole current.
+A. equal to
+B. less than
+c. greater than
+D. none of the above",Physics,"In a p-type semiconductor, the electron current is \( _{-}-_{-}-_{-}- \) the hole current.",equal to,less than,greater than,none of the above,equal to,Electricity,Hard,1048,10,55,69,Medium,thermodynamics ,0,2,6,QZ0204,"In a p-type semiconductor, the electron current is \( _{-}-_{-}-_{-}- \) the hole current.
+A. equal to
+B. less than
+c. greater than
+D. none of the above","In a p-type semiconductor, the electron current is \( _{-}-_{-}-_{-}- \) the hole current.",1
+"Assertion
+Kirchhoff's junction rule can be applied to a junction of several lines or a point in a line.
+Reason
+When steady current is flowing, there is no accumulation of charges at any junction or at any point in a line.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,"Assertion
+Kirchhoff's junction rule can be applied to a junction of several lines or a point in a line.
+Reason
+When steady current is flowing, there is no accumulation of charges at any junction or at any point in a line.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Electricity,Hard,1075,3,68,209,Medium,electricity,0,2,0,QZ0242,"Assertion
+Kirchhoff's junction rule can be applied to a junction of several lines or a point in a line.
+Reason
+When steady current is flowing, there is no accumulation of charges at any junction or at any point in a line.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect","Assertion
+Kirchhoff's junction rule can be applied to a junction of several lines or a point in a line.
+Reason
+When steady current is flowing, there is no accumulation of charges at any junction or at any point in a line.",1
+"Assertion
+The effects of charge exchange are usually only noticed when at least one
+of the surfaces has a high resistance to
+electrical flow.
+Reason
+This is because the charges that transfer to or from the highly resistive
+surface are more or less trapped there for a long enough time for their effects to be observed.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,"Assertion
+The effects of charge exchange are usually only noticed when at least one
+of the surfaces has a high resistance to
+electrical flow.
+Reason
+This is because the charges that transfer to or from the highly resistive
+surface are more or less trapped there for a long enough time for their effects to be observed.",A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Electricity,Hard,1065,6,42,180,Medium,mechanics,0,2,2,QZ0057,"Assertion
+The effects of charge exchange are usually only noticed when at least one
+of the surfaces has a high resistance to
+electrical flow.
+Reason
+This is because the charges that transfer to or from the highly resistive
+surface are more or less trapped there for a long enough time for their effects to be observed.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect","Assertion
+The effects of charge exchange are usually only noticed when at least one
+of the surfaces has a high resistance to
+electrical flow.
+Reason
+This is because the charges that transfer to or from the highly resistive
+surface are more or less trapped there for a long enough time for their effects to be observed.",1
+"The electrical circuit used to get
+smooth D.C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter
+B. Oscillator
+c. \( \operatorname{cogic} \) gates
+D. Amplifier",Physics,"The electrical circuit used to get
+smooth D.C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter","C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter",Oscillator,\( \operatorname{cogic} \) gates,Amplifier,"C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter",Electricity,Hard,1051,3,21,260,Easy,kinematics,0,0,1,QZ0142,"The electrical circuit used to get
+smooth D.C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter
+B. Oscillator
+c. \( \operatorname{cogic} \) gates
+D. Amplifier","The electrical circuit used to get
+smooth D.C output from a rectifier circuit is called:
+\( \mathbf{A} \). Filter",1
+"The gold leaf electroscope is charged so that its leaves somewhat diverge. If \( X \) rays are incident on the electroscope
+then
+A. the divergence will decrease
+B. the divergence of leaves will remain unchanged
+c. the gold leaves will melt
+D. the divergence will increase",Physics,"The gold leaf electroscope is charged so that its leaves somewhat diverge. If \( X \) rays are incident on the electroscope
+then",the divergence will decrease,the divergence of leaves will remain unchanged,the gold leaves will melt,the divergence will increase,the divergence will decrease,Electricity,Hard,1016,1,87,179,Hard,mixed questions,0,1,3,QZ0265,"The gold leaf electroscope is charged so that its leaves somewhat diverge. If \( X \) rays are incident on the electroscope
+then
+A. the divergence will decrease
+B. the divergence of leaves will remain unchanged
+c. the gold leaves will melt
+D. the divergence will increase","The gold leaf electroscope is charged so that its leaves somewhat diverge. If \( X \) rays are incident on the electroscope
+then",1
+"Across the surface of a charged
+conductor,
+
+This question has multiple correct options
+A. field is continuous
+B. potential is continuous
+C. field is discontinuous
+D. potential is discontinuous",Physics,"Across the surface of a charged
+conductor,
+
+This question has multiple correct options",field is continuous,potential is continuous,field is discontinuous,potential is discontinuous,field is continuous,Electricity,Hard,1078,9,23,95,Easy,optics,0,0,5,QZ0117,"Across the surface of a charged
+conductor,
+
+This question has multiple correct options
+A. field is continuous
+B. potential is continuous
+C. field is discontinuous
+D. potential is discontinuous","Across the surface of a charged
+conductor,
+
+This question has multiple correct options",1
+"The charge carriers in a p-type
+semiconductor are:
+A. electrons only
+B. holes only
+C. holes in larger numbers and electrons in smaller numbers
+D. holes and electrons in equal numbers",Physics,"The charge carriers in a p-type
+semiconductor are:",electrons only,holes only,holes in larger numbers and electrons in smaller numbers,holes and electrons in equal numbers,electrons only,Electricity,Hard,1006,2,43,235,Medium,mechanics,0,2,2,QZ0325,"The charge carriers in a p-type
+semiconductor are:
+A. electrons only
+B. holes only
+C. holes in larger numbers and electrons in smaller numbers
+D. holes and electrons in equal numbers","The charge carriers in a p-type
+semiconductor are:",1
+"In a photoelectric effect, the anode
+potential is plotted against the plate
+current
+A. A and B will have different intensities while B and
+will have different frequencies
+B. B and C will have different intensities while A and will have different frequencies
+C. \( A \) and \( B \) will have different intensities while \( A \) and \( C \) will have equal frequencies
+D. A and B will have equal intensities while B and C will have different frequencies",Physics,"In a photoelectric effect, the anode
+potential is plotted against the plate
+current","A and B will have different intensities while B and
+will have different frequencies",B and C will have different intensities while A and will have different frequencies,\( A \) and \( B \) will have different intensities while \( A \) and \( C \) will have equal frequencies,A and B will have equal intensities while B and C will have different frequencies,B and C will have different intensities while A and will have different frequencies,Electricity,Hard,1091,1,56,271,Medium,thermodynamics ,0,2,6,QZ0011,"In a photoelectric effect, the anode
+potential is plotted against the plate
+current
+A. A and B will have different intensities while B and
+will have different frequencies
+B. B and C will have different intensities while A and will have different frequencies
+C. \( A \) and \( B \) will have different intensities while \( A \) and \( C \) will have equal frequencies
+D. A and B will have equal intensities while B and C will have different frequencies","In a photoelectric effect, the anode
+potential is plotted against the plate
+current",2
+"Assertion
+In meter bridge experiment, a high resistance is always connected in
+series with a galvanometer.
+Reason
+As resistance increases current
+through the circuit increases.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,"Assertion
+In meter bridge experiment, a high resistance is always connected in
+series with a galvanometer.
+Reason
+As resistance increases current
+through the circuit increases.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Both Assertion and Reason are incorrect,Electricity,Hard,1059,4,37,250,Easy,kinematics,0,0,1,QZ0381,"Assertion
+In meter bridge experiment, a high resistance is always connected in
+series with a galvanometer.
+Reason
+As resistance increases current
+through the circuit increases.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect","Assertion
+In meter bridge experiment, a high resistance is always connected in
+series with a galvanometer.
+Reason
+As resistance increases current
+through the circuit increases.",4
+"Electric charge is due to the loss or gain
+of
+A. protons
+B. neutrons
+c. electrons
+D. none of these",Physics,"Electric charge is due to the loss or gain
+of",protons,neutrons,electrons,none of these,protons,Electricity,Hard,1096,6,84,286,Hard,mixed questions,0,1,3,QZ0140,"Electric charge is due to the loss or gain
+of
+A. protons
+B. neutrons
+c. electrons
+D. none of these","Electric charge is due to the loss or gain
+of",1
+"In the process of earthing, how does charges get discharged to Earth?
+A. Through some conductor
+B. Directly to the Earth
+c. Through transformer
+D. None of the above",Physics,"In the process of earthing, how does charges get discharged to Earth?",Through some conductor,Directly to the Earth,Through transformer,None of the above,Through some conductor,Electricity,Hard,1046,2,88,78,Hard,mixed questions,0,1,3,QZ0353,"In the process of earthing, how does charges get discharged to Earth?
+A. Through some conductor
+B. Directly to the Earth
+c. Through transformer
+D. None of the above","In the process of earthing, how does charges get discharged to Earth?",1
+"Assertion
+Ohm's law is not valid if current
+depends on voltage non-linearly.
+Reason
+Ohm's law is a fundamental law of
+nature.
+A. Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+C. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,"Assertion
+Ohm's law is not valid if current
+depends on voltage non-linearly.
+Reason
+Ohm's law is a fundamental law of
+nature.","Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion",Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,"Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion",Electricity,Hard,1063,4,25,103,Easy,kinematics,0,0,1,QZ0425,"Assertion
+Ohm's law is not valid if current
+depends on voltage non-linearly.
+Reason
+Ohm's law is a fundamental law of
+nature.
+A. Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+C. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect","Assertion
+Ohm's law is not valid if current
+depends on voltage non-linearly.
+Reason
+Ohm's law is a fundamental law of
+nature.",1
+"In class A amplifiers, current through
+load flows for
+A. full cycle of the signal
+B. half cycle of the signal
+c. \( \frac{1}{4} \) cycle of the signal
+D. None of these",Physics,"In class A amplifiers, current through
+load flows for",full cycle of the signal,half cycle of the signal,\( \frac{1}{4} \) cycle of the signal,None of these,None of these,Electricity,Hard,1020,4,41,35,Medium,thermodynamics ,0,2,6,QZ0210,"In class A amplifiers, current through
+load flows for
+A. full cycle of the signal
+B. half cycle of the signal
+c. \( \frac{1}{4} \) cycle of the signal
+D. None of these","In class A amplifiers, current through
+load flows for",4
+"If the electric field in some region of
+space is zero,
+A. it implies that there is no electric charge in that region.
+B. it implies that there is electric charge in that region.
+C. it does not imply anything concrete about the charges in the region.
+D. it means there is discharging in the region",Physics,"If the electric field in some region of
+space is zero,",it implies that there is no electric charge in that region.,it implies that there is electric charge in that region.,it does not imply anything concrete about the charges in the region.,it means there is discharging in the region,it implies that there is electric charge in that region.,Electricity,Hard,1099,6,33,94,Easy,kinematics,0,0,1,QZ0324,"If the electric field in some region of
+space is zero,
+A. it implies that there is no electric charge in that region.
+B. it implies that there is electric charge in that region.
+C. it does not imply anything concrete about the charges in the region.
+D. it means there is discharging in the region","If the electric field in some region of
+space is zero,",2
+"Assertion
+On going away from a point charge or a small electric dipole, electric field decreases at the same rate in both the
+cases.
+Reason
+Electric field is inversely proportional to
+square of distance from the charge or on electric dipole.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+C. Assertion is correct but Reason is incorrect.
+D. Both Assertion and Reason are incorrect.",Physics,"Assertion
+On going away from a point charge or a small electric dipole, electric field decreases at the same rate in both the
+cases.
+Reason
+Electric field is inversely proportional to
+square of distance from the charge or on electric dipole.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect.,Both Assertion and Reason are incorrect.,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,Electricity,Hard,1036,8,95,150,Hard,mixed questions,0,1,3,QZ0392,"Assertion
+On going away from a point charge or a small electric dipole, electric field decreases at the same rate in both the
+cases.
+Reason
+Electric field is inversely proportional to
+square of distance from the charge or on electric dipole.
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+C. Assertion is correct but Reason is incorrect.
+D. Both Assertion and Reason are incorrect.","Assertion
+On going away from a point charge or a small electric dipole, electric field decreases at the same rate in both the
+cases.
+Reason
+Electric field is inversely proportional to
+square of distance from the charge or on electric dipole.",1
+"Assertion
+Resonance is exhibited by a circuit only
+if both L and \( C \) are present in the circuit
+Reason
+Only then the voltage across L and \( C \) cancel each other, both being out of
+phase
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect",Physics,"Assertion
+Resonance is exhibited by a circuit only
+if both L and \( C \) are present in the circuit
+Reason
+Only then the voltage across L and \( C \) cancel each other, both being out of
+phase",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Both Assertion and Reason are incorrect,Electricity,Hard,1018,1,23,43,Easy,kinematics,0,0,1,QZ0245,"Assertion
+Resonance is exhibited by a circuit only
+if both L and \( C \) are present in the circuit
+Reason
+Only then the voltage across L and \( C \) cancel each other, both being out of
+phase
+A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion
+B. Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion
+c. Assertion is correct but Reason is incorrect
+D. Both Assertion and Reason are incorrect","Assertion
+Resonance is exhibited by a circuit only
+if both L and \( C \) are present in the circuit
+Reason
+Only then the voltage across L and \( C \) cancel each other, both being out of
+phase",4
+"The resistance of a galvanometer is 50 ohm and the maximum current which
+can be passed through it is \( 0.002 A \) What resistance must be connected to
+it in order to convert it into an ammeter
+of range \( 0-0.5 A ? \)
+A. 0.2 onm
+B. 0.002 ohm
+c. 0.02 ohm
+D. 0.5 ohm",Physics,"The resistance of a galvanometer is 50 ohm and the maximum current which
+can be passed through it is \( 0.002 A \) What resistance must be connected to
+it in order to convert it into an ammeter
+of range \( 0-0.5 A ? \)",0.2 onm,0.002 ohm,0.02 ohm,0.5 ohm,0.2 onm,Electricity,Hard,1074,8,52,196,Medium,thermodynamics ,0,2,6,QZ0382,"The resistance of a galvanometer is 50 ohm and the maximum current which
+can be passed through it is \( 0.002 A \) What resistance must be connected to
+it in order to convert it into an ammeter
+of range \( 0-0.5 A ? \)
+A. 0.2 onm
+B. 0.002 ohm
+c. 0.02 ohm
+D. 0.5 ohm","The resistance of a galvanometer is 50 ohm and the maximum current which
+can be passed through it is \( 0.002 A \) What resistance must be connected to
+it in order to convert it into an ammeter
+of range \( 0-0.5 A ? \)",1
+"If the load resistance decreases in a
+zener regulator, the zener current
+A. Decreases
+B. Stays the same
+c. Increases
+D. Equals the source voltage divided by the series resistance",Physics,"If the load resistance decreases in a
+zener regulator, the zener current",Decreases,Stays the same,Increases,Equals the source voltage divided by the series resistance,Decreases,Electricity,Hard,1097,9,66,292,Medium,modern physics,0,2,4,QZ0356,"If the load resistance decreases in a
+zener regulator, the zener current
+A. Decreases
+B. Stays the same
+c. Increases
+D. Equals the source voltage divided by the series resistance","If the load resistance decreases in a
+zener regulator, the zener current",1
+"What will be the effect on the
+divergence of the leaves of a uncharged gold leaf electroscope on bringing a negatively charged rod near electroscope?
+A. Leaves diverge
+B. Leaves converge
+c. Leaves remains at same position
+D. Can not be determined",Physics,"What will be the effect on the
+divergence of the leaves of a uncharged gold leaf electroscope on bringing a negatively charged rod near electroscope?",Leaves diverge,Leaves converge,Leaves remains at same position,Can not be determined,Leaves remains at same position,Electricity,Hard,1076,7,91,216,Hard,mixed questions,0,1,3,QZ0326,"What will be the effect on the
+divergence of the leaves of a uncharged gold leaf electroscope on bringing a negatively charged rod near electroscope?
+A. Leaves diverge
+B. Leaves converge
+c. Leaves remains at same position
+D. Can not be determined","What will be the effect on the
+divergence of the leaves of a uncharged gold leaf electroscope on bringing a negatively charged rod near electroscope?",3
+"In the series \( L C R \) circuit as shown in
+figure, the voltmeter and ammeter
+readings are:
+A. \( V=100 \) volt, \( I=2 \) amp
+B. \( V=100 \) volt, \( I=5 \) amp
+c. \( V=1000 \) volt, \( I=2 \) amp
+D. \( V=300 \) volt, \( I=1 \) amp",Physics,"In the series \( L C R \) circuit as shown in
+figure, the voltmeter and ammeter
+readings are:","\( V=100 \) volt, \( I=2 \) amp","\( V=100 \) volt, \( I=5 \) amp","\( V=1000 \) volt, \( I=2 \) amp","\( V=300 \) volt, \( I=1 \) amp","\( V=100 \) volt, \( I=2 \) amp",Electricity,Hard,1014,7,42,275,Medium,thermodynamics ,0,2,6,QZ0001,"In the series \( L C R \) circuit as shown in
+figure, the voltmeter and ammeter
+readings are:
+A. \( V=100 \) volt, \( I=2 \) amp
+B. \( V=100 \) volt, \( I=5 \) amp
+c. \( V=1000 \) volt, \( I=2 \) amp
+D. \( V=300 \) volt, \( I=1 \) amp","In the series \( L C R \) circuit as shown in
+figure, the voltmeter and ammeter
+readings are:",1
+"A positively charged rod is touched with the brass disc of a positively charged gold leaf electroscope. State the effect on divergence of the leaves.
+A. Divergence increases
+B. Divergence decreases
+c. Divergence remains same
+D. none",Physics,A positively charged rod is touched with the brass disc of a positively charged gold leaf electroscope. State the effect on divergence of the leaves.,Divergence increases,Divergence decreases,Divergence remains same,none,Divergence increases,Electricity,Hard,1038,9,76,218,Hard,modern physics,0,1,4,QZ0430,"A positively charged rod is touched with the brass disc of a positively charged gold leaf electroscope. State the effect on divergence of the leaves.
+A. Divergence increases
+B. Divergence decreases
+c. Divergence remains same
+D. none",A positively charged rod is touched with the brass disc of a positively charged gold leaf electroscope. State the effect on divergence of the leaves.,1
+"For the given circuit of \( \boldsymbol{p}-\boldsymbol{n} \) junction,
+the potential barrier is :
+A. Raised
+B. Lowered
+c. Remains same
+D. Data insufficient",Physics,"For the given circuit of \( \boldsymbol{p}-\boldsymbol{n} \) junction,
+the potential barrier is :",Raised,Lowered,Remains same,Data insufficient,Raised,Electricity,Hard,1062,6,37,299,Easy,kinematics,0,0,1,QZ0199,"For the given circuit of \( \boldsymbol{p}-\boldsymbol{n} \) junction,
+the potential barrier is :
+A. Raised
+B. Lowered
+c. Remains same
+D. Data insufficient","For the given circuit of \( \boldsymbol{p}-\boldsymbol{n} \) junction,
+the potential barrier is :",1
+"The balancing point in a meter bridge is \( 44 \mathrm{cm} . \) If the resistances in the
+are gaps are inchanged the new balance point is
+A. \( 44 \mathrm{cm} \)
+B. 56 \( \mathrm{cm} \)
+c. \( 50 \mathrm{cm} \)
+D. 22 \( \mathrm{cm} \)",Physics,"The balancing point in a meter bridge is \( 44 \mathrm{cm} . \) If the resistances in the
+are gaps are inchanged the new balance point is",\( 44 \mathrm{cm} \),56 \( \mathrm{cm} \),\( 50 \mathrm{cm} \),22 \( \mathrm{cm} \),22 \( \mathrm{cm} \),Electricity,Hard,1066,1,31,126,Easy,optics,0,0,5,QZ0121,"The balancing point in a meter bridge is \( 44 \mathrm{cm} . \) If the resistances in the
+are gaps are inchanged the new balance point is
+A. \( 44 \mathrm{cm} \)
+B. 56 \( \mathrm{cm} \)
+c. \( 50 \mathrm{cm} \)
+D. 22 \( \mathrm{cm} \)","The balancing point in a meter bridge is \( 44 \mathrm{cm} . \) If the resistances in the
+are gaps are inchanged the new balance point is",4
+"In charging by conduction, the charged
+object
+A. ends up oppositely charged to the object used to charge it.
+B. ends up similarly charged to the object used to charge it.
+C. discharges the object used to charge it, completely.
+D. discharges the object used to charge it, to some extent",Physics,"In charging by conduction, the charged
+object",ends up oppositely charged to the object used to charge it.,ends up similarly charged to the object used to charge it.,"discharges the object used to charge it, completely.","discharges the object used to charge it, to some extent",ends up oppositely charged to the object used to charge it.,Electricity,Hard,1020,3,68,187,Medium,electricity,0,2,0,QZ0217,"In charging by conduction, the charged
+object
+A. ends up oppositely charged to the object used to charge it.
+B. ends up similarly charged to the object used to charge it.
+C. discharges the object used to charge it, completely.
+D. discharges the object used to charge it, to some extent","In charging by conduction, the charged
+object",1
+"Find out the current in the circuit
+shown above. (Assume the diode used
+in the circuit is ideal)
+A. \( 20 \mathrm{mA} \)
+B. 200 mA
+c. \( 0.2 \mathrm{A} \)
+D. \( 40 \mathrm{A} \)",Physics,"Find out the current in the circuit
+shown above. (Assume the diode used
+in the circuit is ideal)",\( 20 \mathrm{mA} \),200 mA,\( 0.2 \mathrm{A} \),\( 40 \mathrm{A} \),\( 20 \mathrm{mA} \),Electricity,Hard,1014,2,37,133,Easy,kinematics,0,0,1,QZ0343,"Find out the current in the circuit
+shown above. (Assume the diode used
+in the circuit is ideal)
+A. \( 20 \mathrm{mA} \)
+B. 200 mA
+c. \( 0.2 \mathrm{A} \)
+D. \( 40 \mathrm{A} \)","Find out the current in the circuit
+shown above. (Assume the diode used
+in the circuit is ideal)",1
